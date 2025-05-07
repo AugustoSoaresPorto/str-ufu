@@ -1,9 +1,8 @@
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Aluno: Augusto Soares Porto
 Matrícula: 12121ECP016
 Email para contato: augusto.porto@ufu.br
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 	O trabalho final entregue está disposto no endereço: https://github.com/AugustoSoaresPorto/str-ufu/tree/main
 
 	Na pasta Modulo4, está meu projeto para o trabalho final de STR referente ao Módulo 4 proposto, o qual tem 2 principais arquivos:
