@@ -11,4 +11,4 @@ Email para contato: augusto.porto@ufu.br
 
 	Na minha implementação estou utilizando 2 máquinas de estados, criadas nas linhas 110 a 115 de Form1.cs, que executam às funções RecebimentoPacotes() (dentre as linhas 135 a 216) e EnviarRelatorio() (dentre as linhas 218 a 258).
 
-	OBS.: Também inserir dois projetos referentes aos módulo 1 para fins de teste, um deles implementado em aula (formatação 99) e o outro implementado pelo grupo encarregado desse módulo no projeto final (formatação 22). Tive consentimento de ambos os participantes do grupo para usar seus códigos.
+	OBS.: Também inseri dois projetos referentes aos módulo 1 para fins de teste, um deles implementado em aula (formatação 99) e o outro implementado pelo grupo encarregado desse módulo no projeto final (formatação 22). Tive consentimento de ambos os participantes do grupo para usar seus códigos.
